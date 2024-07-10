@@ -14,3 +14,5 @@ pip install duolingo-api
 import duolingo
 lingo = duolingo.Duolingo('your_username', 'your_password')
 ```
+
+![Outputmessages in Cells](NotebookDuolingoOutput.png)
